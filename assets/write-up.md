@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="tux.png" width="500" alt="tux">
+  <img src="tux.png" width="400" alt="tux">
 </p>
 
 # Intro

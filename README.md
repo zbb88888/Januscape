@@ -1,7 +1,7 @@
 # Januscape: Guest-to-Host Escape in KVM/x86
 
 <p align="center">
-  <img src="assets/tux.png" width="500" alt="tux">
+  <img src="assets/tux.png" width="400" alt="tux">
 </p>
 
 # Abstract
